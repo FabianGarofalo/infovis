@@ -1,2 +1,13 @@
-palabra 01
-palabra 02
+astonishing rate
+nuanced
+visual encodings
+graphical perception
+Protovis
+scalable vector graphics
+stream graph
+brushing-and-linking
+choropleth map
+Dorling cartogram
+phylogenetic trees
+Reingold-Tilford algorithm
+force-directed layout
